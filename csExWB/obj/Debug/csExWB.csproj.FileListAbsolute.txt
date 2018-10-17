@@ -1,0 +1,8 @@
+F:\mywork\csEXWB\csExWB\bin\Debug\csExWB.dll
+F:\mywork\csEXWB\csExWB\bin\Debug\csExWB.pdb
+F:\mywork\csEXWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+F:\mywork\csEXWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+F:\mywork\csEXWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+F:\mywork\csEXWB\csExWB\obj\Debug\csExWB.csproj.CoreCompileInputs.cache
+F:\mywork\csEXWB\csExWB\obj\Debug\csExWB.dll
+F:\mywork\csEXWB\csExWB\obj\Debug\csExWB.pdb
